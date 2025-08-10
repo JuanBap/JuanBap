@@ -21,9 +21,11 @@
 
 🏆 **Academic Excellence Award Recipient** (Multiple semesters) with a 4.3/5.0 GPA
 
-💼 Currently working as an **Administrative Monitor** building automation tools that save hours of work every week
+💼 Currently open for full-time jobs 
 
 🌱 Always learning and exploring the latest in web technologies and AI innovations
+
+🤖 Prompt engineering and AI tools for improving delivery and quaility
 
 ---
 
@@ -59,51 +61,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-## 💼 What I'm Working On
-
-🔧 **Administrative Monitor @ Pontificia Universidad Javeriana**
-- Building Python ETL pipelines that reduce manual work by **70%**
-- Developing RESTful APIs for real-time academic analytics
-- Designing database schemas for improved data integrity
-
-🚀 **Co-Founder @ Synnectia**
-- Delivering automation solutions for local businesses
-- Built WhatsApp AI customer service agents that cut response times by **70%**
-- Created web platforms serving **200+ daily users**
-
----
-
-## 🎯 Highlights
-
-✨ **Business Impact**: Built tools that save **6+ hours of work per week**
-
-🤖 **AI Integration**: Successfully deployed WhatsApp AI agents using OpenAI models
-
-📊 **Data Processing**: Automated ABET accreditation reports with Python ETL
-
-🌐 **Full-Stack Projects**: End-to-end development from requirements to deployment
-
-📈 **High Traffic**: Built platforms handling **200+ daily views**
-
-⚡ **Rapid Development**: Complete project lifecycle in **1 week** including deployment
-
----
-
-## 🏆 Academic Excellence
-
-🎓 **Multiple Academic Excellence Awards** (2022-2025)
-
-📚 **Relevant Coursework:**
-- Data Structures & Algorithms
-- Software Architecture & Engineering  
-- Distributed Systems
-- Artificial Intelligence
-- Web Development
-- Relational Databases
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -120,7 +77,6 @@
 
 💬 **I'm always excited to collaborate on:**
 - 🌐 Full-stack web applications
-- 🤖 AI-powered automation solutions  
 - 📊 Data processing and ETL pipelines
 - 🚀 Innovative business solutions
 
