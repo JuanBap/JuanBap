@@ -23,7 +23,7 @@
 
 🏆 **Academic Excellence Award Recipient** (Multiple semesters) with a 4.3/5.0 GPA
 
-💼 Currently open for full-time jobs 
+💼 Currently working at Kapwork as Associate Fullstack Engineer !
 
 🌱 Always learning and exploring the latest in web technologies and AI innovations
 
