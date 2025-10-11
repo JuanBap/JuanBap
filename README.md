@@ -21,13 +21,11 @@
 
 💡 I love turning complex business problems into elegant, scalable web solutions that make a real impact
 
-🏆 **Academic Excellence Award Recipient** (Multiple semesters) with a 4.3/5.0 GPA
+🏆 **Academic Excellence Award Recipient** (Multiple semesters) with a 4.4/5.0 GPA
 
 💼 Currently working at Kapwork as Associate Fullstack Engineer !
 
 🌱 Always learning and exploring the latest in web technologies and AI innovations
-
-🤖 Prompt engineering and AI tools for improving delivery and quaility
 
 ---
 
