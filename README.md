@@ -75,30 +75,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBap&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-💬 **I'm always excited to collaborate on:**
-- 🌐 Full-stack web applications
-- 📊 Data processing and ETL pipelines
-- 🚀 Innovative business solutions
-
-📫 **Reach out if you want to:**
-- Build something amazing together
-- Discuss web development or AI
-- Share ideas about automation
-- Just have a friendly tech chat!
-
-<div align="center">
-  
-### 🌟 *"Turning ideas into scalable solutions, one line of code at a time"* 🌟
-
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** 😊
-
-</div>
 
 ---
 
