@@ -17,9 +17,7 @@
 
 ## 🚀 About Me
 
-🎓 **Systems Engineering Student** at Pontificia Universidad Javeriana with a passion for **Web Development** and **Generative AI**
-
-💡 I love turning complex business problems into elegant, scalable web solutions that make a real impact
+🎓 Final year **Systems Engineering Student** at Pontificia Universidad Javeriana with a passion for **Web Development** and **Generative AI**
 
 🏆 **Academic Excellence Award Recipient** (Multiple semesters) with a 4.4/5.0 GPA
 
