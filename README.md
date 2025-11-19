@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  🌟 **Systems Engineering Student | Full-Stack Developer | AI Enthusiast** 🌟
+  🌟 **Systems Engineering Student | SWE @Kapwork | AI Enthusiast** 🌟
   
   📍 Bogotá D.C., Colombia 🇨🇴
   
