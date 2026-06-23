@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  🌟 **Systems Engineering Student | SWE @Kapwork | AI Enthusiast** 🌟
+  🌟 **Systems Engineering Student | AI Engineer @ Rappi | AI Enthusiast** 🌟
   
   📍 Bogotá D.C., Colombia 🇨🇴
   
